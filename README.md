@@ -9,5 +9,3 @@ Overview of the Simulation:
 •	Despite smoking being set as a harmful factor (log-odds = 0.3, i.e. an odds ratio ≈ exp (0.3) ≈ 1.35), conditioning on PCI can make smoking look protective for repeat revascularizations. This occurs because non‐smokers must have a higher U to “qualify” for PCI, driving up their subsequent risk of repeat PCI and thereby making smoking look protective
 Key Takeaway:
 This demonstration underscores how conditioning on a collider (in this case, PCI) can induce a spurious association (or even reverse the true direction of an effect) when the collider is influenced by both the exposure (smoking) and an unmeasured risk factor U. Consequently, one might wrongly conclude that smoking is protective for repeat procedures—even though the underlying data‐generating mechanism in this simulation has stipulated that smoking is harmful.
-
-![image](https://github.com/user-attachments/assets/58af5bcc-77bb-4699-a13e-9482306c4a71)
