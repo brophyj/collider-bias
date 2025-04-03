@@ -1,0 +1,54 @@
+---
+title: "Letter to the editor"
+author: "Jay Brophy MD PhD"
+institute: "Departments of Medicine, Epidemiology and Biostatistics, McGill University"
+date: "2025/01/07"
+format:
+  pdf:
+    documentclass: article
+    fig-width: 8
+    fig-height: 12
+    toc: false
+    number-sections: true
+    latex-engine: pdflatex
+    colorlinks: true
+  html:
+    theme: united
+    css: custom.css
+    code-fold: true
+    code-summary: "Show the code"
+editor: visual
+bibliography: bib.bib
+csl: vancouver.csl
+revealjs-plugins:
+  - line-highlight
+  # - revealjs-text-resize
+---
+## Title
+
+A protective effect of smoking on repeat revascularization – another example of collider stratification bias\    
+
+James M. Brophy MD PhD \       
+
+ 
+Address for Correspondence: \     
+ 
+James Brophy MEng MD FRCP(c) FACC FCCS FCAHS PhD  \     
+Professor of Medicine & Epidemiology (McGill)  \    
+Senior Scientist, Research Institute of McGill University Health Centre  \    
+Centre for Health Outcomes Research (CORE)  \     
+5252 Boul. de Maisonneuve West Room 2B.37  \      
+Montreal QC H4A 3S5  \     
+Total word count: ~215 words (letter to the editor) \     
+Funding: This work was unfunded. \    
+Conflicts of interest: The author has no conflicts of interest to report. \    
+\   
+\  
+
+## Letter
+
+Smoking is a well-established risk factor for endothelial damage and increased thrombogenesis, yet Presch[@RN7087] reports paradoxically that smoking is associated with a lower risk of repeat revascularization.  It is hard to conceive why the endothelium would react differently if it had experienced a previous revascularization procedure.  More likely the observed protective role is due to collider risk stratification bias which has successfully explained the obesity, aspirin, and previous smoking paradoxes among many others[@RN6478][@RN7085][@RN7086]. This bias arises when study selection (in this case undergoing revascularization) is a collider, affected by both smoking and other (unmeasured) risk factors, creating a spurious association via an induced back door pathway. Study selection here was determined by the performance of revascularization which is not randomly assigned. Smokers are more likely to undergo initial revascularization and therefore non-smokers who receive revascularization tend to have substantially higher levels of other (unmeasured) risk factors, strong predictors for future revascularization. A simulation study assigning a smoking HR = 1.36 is reduced to 0.87 with 95% CI (0.82 to 0.92) when the general population is conditioned on the performance of an initial revascularization (the collider)[@RN7088]. This reversal is a classic example of collider bias, where conditioning on a collider variable, influenced by both the exposure and an unmeasured confounder distorts the true effect.
+
+## References
+
+
