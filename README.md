@@ -1,7 +1,11 @@
 Accompanying Files:
+* letter_to_editor.qmd
+
+This file is a letter to the editor responding to a published claim that smoking may be protective for repeat revascularizations, even though it is a known risk factor for initial revascularization. The letter claims this observation is most likley due to collider stratification bias. This is a Quarto file that can be opened in the R ecosystem.
+
 * collider.html
  
-This file contains all the code and output from a simulation illustrating collider–stratification bias. It explores how smoking can appear protective for repeat revascularizations, even though it is a known risk factor for initial revascularization. Simply open collider.html in any browser to view the results.
+This file contains all the code and output from a simulation illustrating collider–stratification bias referred to in the letter to the editor. Simply open collider.html in any browser to view the results.
 
 * collider.qmd
  
